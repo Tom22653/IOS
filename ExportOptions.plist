@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<true/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://github.com/Tom22653/IOS/webapp.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://github.com/Tom22653/IOS/0519.ipa</string>
+		<key>fullSizeImageURL</key>
+		<string>https://github.com/Tom22653/IOS/1615.ipa</string>
+	</dict>
+	<key>method</key>
+	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.webapp.lianhetegang</key>
+		<string>lianhetegang1</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>963A687B4E32615FDE062BFF79FCDFD3DD756DED</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>8SSWLKPY67</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>
